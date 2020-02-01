@@ -45,6 +45,10 @@ h6 {
   color: rgba(255, 255, 255, 0.7);
 }
 
+.text-faded-black {
+  color: dimgray;
+}
+
 /* Map */
 .map {
   height: 30rem;
